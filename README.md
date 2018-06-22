@@ -1,1 +1,1 @@
-# cool-weather
+#CoolWeather
